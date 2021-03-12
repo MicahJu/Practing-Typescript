@@ -1,0 +1,1 @@
+//cd into console-resume, run "npm init -y", "npm i typescript", make tsconfig.json (look at intro to ts on covalence)
